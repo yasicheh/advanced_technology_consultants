@@ -1,0 +1,46 @@
+header{
+	text-align:center;
+	padding-top:20px;
+}
+
+.navbar .nav > li > a{
+	padding-left:50px;
+	padding-right:50px;
+}
+
+h3{
+	font-weight:normal;
+	font-style:italic;
+	font-size:21.5px;
+}
+
+.imagebar{
+	text-align:center;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.imagebar img{
+	width:200px;
+	border-radius:150px;
+	height:200px;
+}
+
+.imagebar .plussign{
+	height:60px;
+	width:60px;
+}
+
+.plussign.left{
+	padding-right:45px;
+}
+
+.plussign.right{
+	padding-left:45px;
+}
+
+hr{
+	border-color:#d4d4d4;
+	border-width:1px;
+	border-style:solid none none none;
+}
